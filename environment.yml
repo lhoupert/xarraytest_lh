@@ -8,9 +8,9 @@ dependencies:
   # Other (remove and add as needed)
   - jupyter
   - jupyterlab
-  - xarray
-  - numpy
+  - xarray==0.15.1
+  - numpy==1.18.1
   - scipy
   - netcdf4
-  - pandas
+  - pandas==1.0.3
   - matplotlib
